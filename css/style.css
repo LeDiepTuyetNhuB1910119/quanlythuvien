@@ -1,0 +1,17 @@
+.login_wrapper{
+    background-color: rgb(193, 219, 226);
+    margin-top: 140px;
+    margin-left: 320px;
+    margin-right: 320px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.cangiua{
+    text-align: center;
+}
+
+.title{
+    font-weight: bold;
+    text-align: center;
+}
